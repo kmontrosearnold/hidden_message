@@ -1,2 +1,2 @@
-# hidden_message
-.... read this first...
+this is the 2nd line
+find the next
